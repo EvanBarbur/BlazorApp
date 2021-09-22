@@ -1,4 +1,7 @@
 ![AzureBlazor](https://user-images.githubusercontent.com/69993923/134272268-4a86db49-604a-4c2f-8878-a44e528da54c.png)
+![BlazorSite](https://user-images.githubusercontent.com/69993923/134273187-b66106fd-c700-4db8-9f78-7b77b9a7f9b9.png)
+
+
 
 # Blazor Starter Application
 
